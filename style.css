@@ -178,6 +178,13 @@ section {
   width: 400px;
   margin: auto 0;
 }
+.section__pic-container-2 {
+  display: flex;
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+}
+
 
 .section__text {
   align-self: center;
@@ -354,6 +361,11 @@ section {
 }
 
 .experience-details-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.experience-details-container-2 {
   display: flex;
   justify-content: center;
   flex-direction: column;
