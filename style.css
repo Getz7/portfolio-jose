@@ -225,7 +225,7 @@ section {
 .icon:hover {
 
   height:2.2rem;
-  }
+}
 
 /* BUTTONS */
 
@@ -456,6 +456,9 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+.email-icon:hover {
+  height: 2.7rem;
 }
 
 /* FOOTER SECTION */
