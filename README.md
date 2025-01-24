@@ -1,6 +1,5 @@
 # Personal Portfolio - Software Developer
 
-## Project Title and Description
 
 This repository contains my personal portfolio, showcasing my skills, projects, and experience as a software developer. It is designed to highlight my technical expertise, personal brand, and professional journey.
 
