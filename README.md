@@ -31,7 +31,7 @@ This repository contains the portfolio project for showcasing my work and skills
 - Open your browser and navigate to `http://localhost:3000`.
 
 ## Contributing
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+Please see the [CONTRIBUTING.md](Contributing.md) file for guidelines on how to contribute to this project.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
