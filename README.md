@@ -2,6 +2,9 @@
 
 ## Description
 This repository contains the portfolio project for showcasing my work and skills. It is built using modern web technologies.
+## Deployed Website
+
+https://joseivj.netlify.app/
 
 ## Getting Started
 
